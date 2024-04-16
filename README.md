@@ -1,4 +1,4 @@
-# TikTok-Claims-Classification
+# TikTok-Claims-Classification (XGBoost & Random Forest)
 This is a capstone project useful for completing the course: **Google Advanced Data Analytics Professional Certificate**. 
 
 **Performed:** Data Cleaning, EDA, Data Visualization, Random Forest, and XGBoost.
